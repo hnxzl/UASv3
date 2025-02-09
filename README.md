@@ -1,16 +1,8 @@
-# tododo
+Pengelolaan tugas, acara, dan catatan seringkali menjadi tantangan, terutama bagi mahasiswa dan pekerja yang memiliki banyak tanggung jawab. Banyak orang menggunakan berbagai aplikasi untuk mencatat dan mengatur aktivitas sehari-hari, yang dapat menyebabkan kebingungan dan ketidakefisienan. 
+Oleh karena itu, diperlukan sebuah aplikasi yang dapat menggabungkan berbagai kebutuhan pengelolaan tugas dan catatan dalam satu platform yang sederhana, terstruktur, dan mudah diakses. Aplikasi Tododo dirancang untuk mempermudah pengguna dalam mengatur semua aktivitas mereka dengan fitur-fitur yang intuitif dan mendukung produktivitas.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tujuan utama dari aplikasi Tododo adalah:
+1.	Memberikan solusi terintegrasi untuk pengelolaan tugas, acara, dan catatan dalam satu platform.
+2.	Meningkatkan produktivitas pengguna dengan fitur pengelompokan tugas berdasarkan tag dan prioritas.
+3.	Mempermudah pengguna dalam memantau tugas dengan tampilan yang terorganisir dan pengingat otomatis.
+![image](https://github.com/user-attachments/assets/3aeccaed-ec56-41ec-a437-fc82f1a8b052)
